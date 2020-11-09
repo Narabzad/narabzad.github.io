@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Negar Arabzadeh"
-  avatar           : "images/negar.jpg"
+  avatar           : "https://github.com/Narabzad/narabzad.github.io/blob/master/images/negar.jpg"
   bio              : "Researcher / PhD Studet at UWaterloo"
   location         : "Toronto, ON, Canada"
   googlescholar    : "http://scholar.google.com/citations?user=R_1o4RIAAAAJ&hl=en"
