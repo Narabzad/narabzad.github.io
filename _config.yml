@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Negar Arabzadeh"
-  avatar           : "https://github.com/Narabzad/narabzad.github.io/blob/master/images/negar.jpg"
+  avatar           : "negar.jpg"
   bio              : "Researcher / PhD Studet at UWaterloo"
   location         : "Toronto, ON, Canada"
   googlescholar    : "http://scholar.google.com/citations?user=R_1o4RIAAAAJ&hl=en"
@@ -235,13 +235,13 @@ defaults:
   #    share: true
   #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
