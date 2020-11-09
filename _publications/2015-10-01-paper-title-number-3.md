@@ -2,7 +2,7 @@
 title: "Geometric estimation of specificity within embedding spaces"
 collection: publications
 permalink: https://dl.acm.org/doi/abs/10.1145/3357384.3358152
-date: 2019
+date: 2010-10-01
 venue: 'Proceedings of the 28th ACM International Conference on Information and Knowledge Management(CIKM 2019)'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
